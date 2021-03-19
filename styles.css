@@ -1,0 +1,19 @@
+body {
+    background-color: #abcdef;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+h1 {
+    text-align: center;
+    padding-left: 50px;
+}
+
+.main-content {
+    padding-left: 50px;
+}
+
